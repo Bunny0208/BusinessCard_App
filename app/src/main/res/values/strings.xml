@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="t1">Udacity</string>
+    <string name="t2">650-555-5555</string>
+    <string name="t3">www.udacity.com</string>
+    <string name="t4">2465 Latham St, Mountain View,CA 94043</string>
+</resources>
